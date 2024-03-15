@@ -1,6 +1,7 @@
 ## فارسی
 - سرمایه گذاری
   - [معرفی نیکولو](./Perisan/introduction_investor.rtl.md)
+  - [پروژه های مشابه](./Perisan/similar_projects.rtl.md)
 - کاربر
   - [پروپوزال سرمایه گذاری](./Perisan/fundraise_proposal.rtl.md)
 
