@@ -1,5 +1,5 @@
 ## فارسی
-- سرمایه گذاری
+- سرمایه گذار
   - [معرفی نیکولو](./Perisan/introduction_investor.rtl.md)
   - [پروژه های مشابه](./Perisan/similar_projects.rtl.md)
 - کاربر
