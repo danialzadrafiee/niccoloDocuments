@@ -8,5 +8,5 @@
 - Investor
   - [Niccolo introduction](./English/introduction_investor.md)
 - End-user
-  - [investment plans](./English/investment_plans.md)
+  - [Investment plans](./English/investment_plans.md)
   - [Fundraise Proposal](./English/fundraise_proposal.md)
